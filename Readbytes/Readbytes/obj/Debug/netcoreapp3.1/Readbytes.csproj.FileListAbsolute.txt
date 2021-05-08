@@ -1,0 +1,12 @@
+/Users/rook/Projects/Readbytes/Readbytes/bin/Debug/netcoreapp3.1/Readbytes.deps.json
+/Users/rook/Projects/Readbytes/Readbytes/bin/Debug/netcoreapp3.1/Readbytes.runtimeconfig.json
+/Users/rook/Projects/Readbytes/Readbytes/bin/Debug/netcoreapp3.1/Readbytes.runtimeconfig.dev.json
+/Users/rook/Projects/Readbytes/Readbytes/bin/Debug/netcoreapp3.1/Readbytes.dll
+/Users/rook/Projects/Readbytes/Readbytes/bin/Debug/netcoreapp3.1/Readbytes.pdb
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.csprojAssemblyReference.cache
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.AssemblyInfoInputs.cache
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.AssemblyInfo.cs
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.dll
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.pdb
+/Users/rook/Projects/Readbytes/Readbytes/obj/Debug/netcoreapp3.1/Readbytes.genruntimeconfig.cache

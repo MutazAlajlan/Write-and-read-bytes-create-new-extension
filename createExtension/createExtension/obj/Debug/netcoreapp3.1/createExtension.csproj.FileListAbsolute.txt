@@ -1,0 +1,12 @@
+/Users/rook/Projects/createExtension/createExtension/bin/Debug/netcoreapp3.1/createExtension.deps.json
+/Users/rook/Projects/createExtension/createExtension/bin/Debug/netcoreapp3.1/createExtension.runtimeconfig.json
+/Users/rook/Projects/createExtension/createExtension/bin/Debug/netcoreapp3.1/createExtension.runtimeconfig.dev.json
+/Users/rook/Projects/createExtension/createExtension/bin/Debug/netcoreapp3.1/createExtension.dll
+/Users/rook/Projects/createExtension/createExtension/bin/Debug/netcoreapp3.1/createExtension.pdb
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.csprojAssemblyReference.cache
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.AssemblyInfoInputs.cache
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.AssemblyInfo.cs
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.dll
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.pdb
+/Users/rook/Projects/createExtension/createExtension/obj/Debug/netcoreapp3.1/createExtension.genruntimeconfig.cache
